@@ -1,4 +1,4 @@
-<h1 align="center">Curriculum Vitae</h1>
+# Curriculum Vitae
 
 ## Education
 + Bachelor of Arts (2004-2008). College of William and Mary. Advisors: Rowan Lockwood and Karen M. Layou
