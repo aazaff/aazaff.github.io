@@ -1,3 +1,5 @@
+# A List of Essential Papers
+
 ## Classic Paleobiology Papers
 + Valentine, J.W. and E.M. Moores (1970) Plate-tectonic regulation of faunal diversity and sea-level: A model.
 + Van Valen, L. (1973) A new evolutionary law. 
