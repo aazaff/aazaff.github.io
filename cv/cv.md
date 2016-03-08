@@ -13,7 +13,7 @@
 
 ## Published Abstracts
 + **Zaffos, A.**, Bonnette, M., Christie, M., Lunze, J., Pryor, A.L., and K.M. Layou (2008). Implications of beta: Diversity partitioning during Miocene-Pliocene background extinction. Geological Society of America Abstracts with Programs 40:60.
-+ Holland, S.M. and **A. Zaffos (2009)**. Testing the importance of incumbency: The conservation of ecological response curves along an onshore-offshore gradient. 9th North American Paleontological Convention Abstracts, Cincinnati Museum Center Scientific Contributions 3:145.
++ Holland, S.M. and **A. Zaffos** (2009). Testing the importance of incumbency: The conservation of ecological response curves along an onshore-offshore gradient. 9th North American Paleontological Convention Abstracts, Cincinnati Museum Center Scientific Contributions 3:145.
 + **Zaffos, A.** and S.M. Holland (2010). Brachiopod abundance and extinction in the Late Ordovician and Early Silurian: Background effects during a mass extinction. Geological Society of America Abstracts with Programs 42:481.
 + **Zaffos, A.** (2011). Latitudinal preferences in Cenozoic mollusks: A change from conservatism to dynamism with the passage of time. Geological Society of America Abstracts with Programs 43:541.
 + **Zaffos, A.**, Brett, C.E., and A.I. Miller (2014). The persistence of ecological gradients: What do we really know? 10th North American Paleontological Convention Abstracts, The Paleontological Society Special Publication 13:164-165.
