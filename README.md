@@ -4,7 +4,7 @@ Website created using the template [Bare](http://startbootstrap.com/template-ove
 
 ## Creator
 
-Website was created by and is maintained by **Jon Husson**, post-doctoral researcher in geology at [Univeristy of Wisconsin - Madison](http://geoscience.wisc.edu/geoscience/).
+Website was created by and is maintained by **Andrew Zaffos**, research associate and associate lecturer in geology at the [Univeristy of Wisconsin - Madison](http://geoscience.wisc.edu/geoscience/).
 
 ## Copyright and License
 
