@@ -103,12 +103,14 @@
     <script src="../js/markdown.min.js"></script>
     
     <script>
-      $.get("./cv.md", function(Data) { 
-        var CV = markdown.toHTML(Data);
-        $("#CVContent").html(CV)
+        $document.ready(function( ) {
+            $.get("./cv.md", function(Data) { 
+                var CV = markdown.toHTML(Data);
+                $("#CVContent").html(CV)
+                }
+            );
         }
-      );
-
+    </script>
 </body>
 
 </html>
