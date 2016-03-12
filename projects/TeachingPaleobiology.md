@@ -1,3 +1,5 @@
+# Quantitative Paleobiology
+
 ## Course Philosophy
 This course is organized around the idea of ontogeny. Ontogenesis is a concept in biology that describes the anatomical and behavioral development of an organism from its birth to its death. In other words, it means progression through the successive stages of life as you age – e.g., birth, childhood, adolescence, adulthood, and death.
 
