@@ -18,11 +18,11 @@
     <link href="../css/customstyles.css" rel="stylesheet">
 
     <style>
-        #TechingPaleobiology {
+        #TeachingContent {
             text-align: left;
             font-size: 18px;
         }
-        #TechingPaleobiology > h1{
+        #TeachingContent > h1{
             text-align: center;
         }
         li {
@@ -117,8 +117,8 @@
     <script>
         $(document).ready(function( ) {
             $.get("./TechingPaleobiology.md", function(Data) { 
-                var TechingPaleobiology = markdown.toHTML(Data);
-                $("#TechingPaleobiology").html(TechingPaleobiology)
+                var Teaching = markdown.toHTML(Data);
+                $("#TeachingContent").html(Teaching)
                 });
             });
     </script>
