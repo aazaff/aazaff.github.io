@@ -9,6 +9,7 @@ We know that geographic range size strongly affects the likelihood of speciation
 
 In short, geographic range size is our best window into how *species* live and die.
 
+
 ## What data do I use to study geographic range size?
 
 I use a broad suite of datasets to study geographic range size. This includes geographic range size dataset of extant taxa from the [Ocean Biogeographic Information System](www.iobis.org) and the [International Union for the Conservation of Nature](www.iucnredlist.org). Of course, as a paleobiologist, I also rely heavily upon the [Paleobiology Database](www.paleobiodb.org).
@@ -18,6 +19,7 @@ Last and perhaps most uniquely, I use the [Macrostrat Database](www.macrostrat.o
 ![Paleocontinent Image](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/Alice.png)
 > A picture of paleocontinent orientations in the Albian (110 mya; green), Masstrichtian (66 mya; blue), and present (red), using [Macrostrat's](www.macrostrat.org) implementation of the [GPlates](www.gplates.org) rotation model
 
+
 ## What have I learned so far?
 
 As part of my work utilizing both extant and fossil data, I have revisited the now century-old Age-and-Area hypothesis of the phytogeographer J.C.Willis. I have confirmed that not only was his much-maligned empirical prediction unambiguously correct, but it is entirely consistent with other theoretical models and empirical range size patterns. You can read about my preliminary results in my [latest GSA abstract](https://gsa.confex.com/gsa/2015AM/webprogram/Paper269082.html), or eagerly await the publication of the manuscript.
@@ -26,6 +28,7 @@ I am also finishing up work into two prominent paleobiological hypotheses. The f
 
 ![AllisonBriggs](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/AliceLatitude.png)
 > A depiction of the relationship between fossil biodiversity and the latitudinal location of key paleocontinents throughout the Phanerozoic.
+
 
 ## What lies in the future?
 
