@@ -3,9 +3,9 @@
 ## Why study range size?
 > "Of the [36-strategems](https://en.wikipedia.org/wiki/Thirty-Six_Stratagems), fleeing is best."
 
-If we view the life history of species (or other taxonomic groups) as analogous to the ontogenetic development of an organism, then every species undergoes birth (origination), adolescence (geographic dispersal), reproduction (speciation), and death (extinction). Each of these "stages of life" is best expressed and studied via the lens of changes in geographic range size.
+If we view the life history of a species as analogous to the ontogenetic development of an organism, then every species undergoes birth (origination), maturation (geographic dispersal), reproduction (speciation), and death (extinction). Each of these "stages of life" is best expressed and studied via the lens of changing geographic range size.
 
-We know that geographic range size strongly affects the likelihood of speciation (i.e, allopatric speciation). We know that the environmental and ecological preferences of organisms (i.e., ecological niches) are expressed in terms of their geographic range size, and that taxa wax and wane in geographic range size as they meet with "success" and "failure". And, perhaps most importantly, we know that of all the proposed determinants of extinction (e.g., population size, fecundity, body size), only geographic range size has been definitively and consistently shown to be a strong predictor of extinction risk in *both* extant and fossil faunas.
+We know that geographic range size strongly affects the likelihood of speciation because of its link to allopatric speciation. We know that the geographic range size of a species is an indirect expression of its ecological nich, and that taxa wax and wane in geographic range size as the spatial distribution of niche-compatible environments changes through time. And, perhaps most importantly, we know that of all the proposed determinants of extinction (e.g., population size, fecundity, body size), only geographic range size is a strong predictor of extinction risk in *both* extant and fossil faunas.
 
 In short, geographic range size is our best window into how *species* live and die.
 
