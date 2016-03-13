@@ -24,7 +24,7 @@ As part of my work utilizing both extant and fossil data, I have revisited the n
 
 I am also finishing up work into two prominent paleobiological hypotheses. The first by Valentine and Moores (1970), that the degree of continental dispersion (supercontinent cycling) exerts a first-order control on biodiversity. The second, by Allison and Briggs (1993) posits that our understanding of biodiversity is significantly impacted by the long-term northward migration of continents over the course of the Phanerozoic. Thanks to the Macrostrat database, we have a great deal of information about paleocontinent orientation that was not available to these original authors.
 
-![Allison&Briggs](https://github.com/aazaff/aazaff.github.io/blob/master/projects/AliceLatitude.png)
+![AllisonBriggs](https://github.com/aazaff/aazaff.github.io/blob/master/projects/AliceLatitude.png)
 > A depiction of the relationship between fossil biodiversity and the latitudinal location of key paleocontinents throughout the Phanerozoic.
 
 ## What lies in the future?
