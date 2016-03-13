@@ -31,5 +31,5 @@ I am also finishing up work into two prominent paleobiological hypotheses. The f
 
 The [Macrostrat working group](www.macrostrat.org) is putting a great deal of effort into leveraging our many geodtabases to generate forward models. This includes things like general climate models, geochemical cycling, and (most relevant to me) models of biodiversity and geographic range size. Currently, I am building a forward model of geographic dispersion as controlled by paleocontinent location.  
 
-![ForwardModel](https://github.com/aazaff/aazaff.github.io/blob/master/projects/ForwardModel.gif)
+![ForwardModel](https://github.com/aazaff/aazaff.github.io/blob/master/projects/Alice.gif)
 > A forward model of the geographic dispersion of a hypothetical taxon that originates in the Cambrian and persists until the present day.
