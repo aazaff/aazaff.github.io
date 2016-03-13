@@ -3,7 +3,7 @@
 ## Why study range size?
 > "Of the [36-strategems](https://en.wikipedia.org/wiki/Thirty-Six_Stratagems), fleeing is best."
 
-If we view the life history of species (or other taxonomic groups) as analagous to the ontogenetic development of an organism, then every species undergoes birth (origination), adolescence (geographic dispersal), reproduction (speciation), and death (extinction). Each of these "stages of life" is best expressed and studied via the lens of changes in geographic range size.
+If we view the life history of species (or other taxonomic groups) as analogous to the ontogenetic development of an organism, then every species undergoes birth (origination), adolescence (geographic dispersal), reproduction (speciation), and death (extinction). Each of these "stages of life" is best expressed and studied via the lens of changes in geographic range size.
 
 We know that geographic range size strongly affects the likelihood of speciation (i.e, allopatric speciation). We know that the environmental and ecological preferences of organisms (i.e., ecological niches) are expressed in terms of their geographic range size, and that taxa wax and wane in geographic range size as they meet with "success" and "failure". And, perhaps most importantly, we know that of all the proposed determinants of extinction (e.g., population size, fecundity, body size), only geographic range size has been definitively and consistently shown to be a strong predictor of extinction risk in *both* extant and fossil faunas.
 
@@ -26,7 +26,7 @@ As part of my work utilizing both extant and fossil data, I have revisited the n
 
 I am also finishing up work into two prominent paleobiological hypotheses. The first by Valentine and Moores (1970), that the degree of continental dispersion (supercontinent cycling) exerts a first-order control on biodiversity. The second, by Allison and Briggs (1993) posits that our understanding of biodiversity is significantly impacted by the long-term northward migration of continents over the course of the Phanerozoic. Thanks to the Macrostrat database, we have a great deal of information about paleocontinent orientation that was not available to these original authors.
 
-![AllisonBriggs](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/AliceLatitude.png)
+![AllisonBriggs](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/AllisonBriggsSmall.png)
 > A depiction of the relationship between fossil biodiversity and the latitudinal location of key paleocontinents throughout the Phanerozoic.
 
 
