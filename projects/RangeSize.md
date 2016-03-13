@@ -24,12 +24,12 @@ As part of my work utilizing both extant and fossil data, I have revisited the n
 
 I am also finishing up work into two prominent paleobiological hypotheses. The first by Valentine and Moores (1970), that the degree of continental dispersion (supercontinent cycling) exerts a first-order control on biodiversity. The second, by Allison and Briggs (1993) posits that our understanding of biodiversity is significantly impacted by the long-term northward migration of continents over the course of the Phanerozoic. Thanks to the Macrostrat database, we have a great deal of information about paleocontinent orientation that was not available to these original authors.
 
-![AllisonBriggs](https://github.com/aazaff/aazaff.github.io/blob/master/projects/AliceLatitude.png)
+![AllisonBriggs](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/AliceLatitude.png)
 > A depiction of the relationship between fossil biodiversity and the latitudinal location of key paleocontinents throughout the Phanerozoic.
 
 ## What lies in the future?
 
 The [Macrostrat working group](www.macrostrat.org) is putting a great deal of effort into leveraging our many geodtabases to generate forward models. This includes things like general climate models, geochemical cycling, and (most relevant to me) models of biodiversity and geographic range size. Currently, I am building a forward model of geographic dispersion as controlled by paleocontinent location.  
 
-![ForwardModel](https://github.com/aazaff/aazaff.github.io/blob/master/projects/Alice.gif)
+![ForwardModel](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/Alice.gif)
 > A forward model of the geographic dispersion of a hypothetical taxon that originates in the Cambrian and persists until the present day. Red points are the taxon, and black points are continental sheles. Epicontinental seas are not modelled in this simulation.
