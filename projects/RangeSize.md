@@ -15,6 +15,6 @@ I use a broad suite of datasets to study geographic range size. This includes ge
 
 Last and perhaps most uniquely, I use the [Macrostrat Database](www.macrostrat.org) to analyze how the geographic range size of fossil species is related to both the quantity of preserved sedimentary rock and the paleogeography of ancient continents.
 
-![A picture of paleocontinent orientations in the Albian (110 mya; green), Masstrichtian (66 mya; blue), and present (red)](), using [Macrostrat's](www.macrostrat.org) implementation of the [GPlates](www.gplates.org) rotation model]()
+![A picture of paleocontinent orientations in the Albian (110 mya; green), Masstrichtian (66 mya; blue), and present (red), using [Macrostrat's](www.macrostrat.org) implementation of the [GPlates](www.gplates.org) rotation model](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/Alice.png)
 
 ## What have I learned so far?
