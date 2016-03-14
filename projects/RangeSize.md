@@ -5,14 +5,14 @@
 
 If we view the life history of a species as analogous to the ontogenetic development of an organism, then every species undergoes birth (origination), maturation (geographic dispersal), reproduction (speciation), and death (extinction). Each of these "stages of life" is best expressed and studied via the lens of changing geographic range size.
 
-We know that geographic range size strongly affects the likelihood of speciation because of its link to allopatric speciation. We know that the geographic range size of a species is an indirect expression of its ecological nich, and that taxa wax and wane in geographic range size as the spatial distribution of niche-compatible environments changes through time. And, perhaps most importantly, we know that of all the proposed determinants of extinction (e.g., population size, fecundity, body size), only geographic range size is a strong predictor of extinction risk in *both* extant and fossil faunas.
+We know that geographic range size strongly affects the likelihood of speciation because of its link to allopatric speciation. We know that the geographic range size of a species is an indirect expression of its ecological nich, and that taxa wax and wane in geographic range size as the spatial distribution of niche-compatible environments changes through time. And, perhaps most importantly, we know that of all the [proposed determinants of extinction](http://www.annualreviews.org/doi/full/10.1146/annurev.ecolsys.28.1.495) (e.g., population size, fecundity, body size), only geographic range size is a strong predictor of extinction risk in *both* extant and fossil faunas.
 
 In short, geographic range size is our best window into how *species* live and die.
 
 
 ## What data do I use to study geographic range size?
 
-I use a broad suite of datasets to study geographic range size. This includes geographic range size dataset of extant taxa from the [Ocean Biogeographic Information System](www.iobis.org) and the [International Union for the Conservation of Nature](www.iucnredlist.org). Of course, as a paleobiologist, I also rely heavily upon the [Paleobiology Database](www.paleobiodb.org).
+I use a broad suite of datasets to study geographic range size. This includes geographic range size datasets of extant taxa from the [Ocean Biogeographic Information System](www.iobis.org) and the [International Union for the Conservation of Nature](www.iucnredlist.org). Of course, as a paleobiologist, I also rely heavily upon the [Paleobiology Database](www.paleobiodb.org).
 
 Last and perhaps most uniquely, I use the [Macrostrat Database](www.macrostrat.org) to analyze how the geographic range size of fossil species is related to both the quantity of preserved sedimentary rock and the paleogeography of ancient continents.
 
@@ -32,7 +32,7 @@ I am also finishing up work into two prominent paleobiological hypotheses. The f
 
 ## What lies in the future?
 
-The [Macrostrat working group](www.macrostrat.org) is putting a great deal of effort into leveraging our many geodtabases to generate forward models. This includes things like general climate models, geochemical cycling, and (most relevant to me) models of biodiversity and geographic range size. Currently, I am building a forward model of geographic dispersion as controlled by paleocontinent location.  
+The [Macrostrat working group](www.macrostrat.org) is putting a great deal of effort into leveraging our many geodtabases to generate forward models. This includes things like general climate models, geochemical cycling, and (most relevant to me) models of biodiversity and geographic range size as a function of paleocontinent geometry. Currently, I am building a forward model of geographic dispersion as controlled by paleocontinent location.  
 
 ![ForwardModel](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/Alice.gif)
 > A forward model of the geographic dispersion of a hypothetical taxon that originates in the Cambrian and persists until the present day. Red points are the taxon, and black points are continental sheles. Epicontinental seas are not modelled in this simulation.
