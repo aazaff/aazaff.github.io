@@ -31,9 +31,6 @@
         [alt="AllisonBriggs"] {
             height: 500px;
         }
-        img {
-            text-align: center;
-        }
     </style>
 
 
@@ -125,6 +122,7 @@
             $.get("./RangeSize.md", function(Data) { 
                 var Range = markdown.toHTML(Data);
                 $("#RangeSize").html(Range)
+                $("img").parents("p").css("text-align", "center")
                 });
             });
     </script>
