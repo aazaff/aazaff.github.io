@@ -32,7 +32,7 @@ I am also finishing up work into two prominent paleobiological hypotheses. The f
 
 ## What lies in the future?
 
-The [Macrostrat working group](www.macrostrat.org) is putting a great deal of effort into leveraging our many geodtabases to generate forward models. This includes things like general climate models, geochemical cycling, and (most relevant to me) models of biodiversity and geographic range size as a function of paleocontinent geometry. Currently, I am building a forward model of geographic dispersion as controlled by paleocontinent location.  
+The [Macrostrat working group](www.macrostrat.org) is putting a great deal of effort into leveraging our many geodtabases to generate forward models. This includes things like general climate models, geochemical cycling, and (most relevant to me) models of biodiversity and geographic range size as a function of paleocontinent geometry. Currently, I am building a forward model of geographic dispersion as controlled by paleocontinent location, as part of collaboration between the [Macrostrat Group](www.macrostrat.org) and [Seth Finnegan's group](https://ib.berkeley.edu/people/faculty/finnegans) at the University of California - Berkeley. 
 
 ![ForwardModel](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/Alice.gif)
 > A forward model of the geographic dispersion of a hypothetical taxon that originates in the Cambrian and persists until the present day. Red points are the taxon, and black points are continental sheles. Epicontinental seas are not modelled in this simulation.
