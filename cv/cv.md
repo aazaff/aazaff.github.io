@@ -29,6 +29,7 @@
 + Brett, C.E., **Zaffos, A.**, Baird, G.C., and A.J. Bartholomew (2013). Fossil beds, facies gradients, and seafloor dynamics in the Middle Devonian Moscow Formation, Western New York. Deakin, A.K. and G.G. Lash (Eds.), New York State Geological Association 85th Annual Field Trip Guidebook, SUNY Fredonia.
 + **Zaffos, A.** (2014). Looking for first principles in paleobiology. *Centre College*.
 + **Zaffos, A.** (2015). Reconsidering the Age-Area hypothesis with R and Big Data. *Madison R Programming Group*.
++ **Zaffos, A.** (2016). The dynamics of geographic range size. *Madison Evolution Seminar Series*.
 
 ## Courses Taught
 + [Geoscience 541.](https://github.com/aazaff/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
@@ -70,8 +71,9 @@
 + Paleontological Society (2008-Present)
 + American Society of Naturalists (2010-Present)
 
-## Service and Outreach Initiatives
+## Outreach Initiatives
 + Alpha Phi Omega Service Organization (2005-2008)
 + Osher Lifelong Learning Center, Teaching Assistant (2010)
 + Boy Scouts of America, Geology Merit Badge Counselor (2011-2013)
-+ Geoinformatics: Leveraging the Paleobiology Database for Education (2016)
++ Paleobiology Database Hackathon, University of California - Santa Cruz (2015)
++ Geoinformatics: Leveraging the Paleobiology Database for Education, University of Wisconsin - Madison (2016)
