@@ -18,11 +18,11 @@
     <link href="../css/customstyles.css" rel="stylesheet">
 
     <style>
-        #Biodiversity {
+        #Gradient {
             text-align: left;
             font-size: 18px;
         }
-        #Biodiversity > h1{
+        #Gradient > h1{
             text-align: center;
         }
         li {
@@ -102,7 +102,7 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-lg-12 text-center" id="Gradients">
+            <div class="col-lg-12 text-center" id="Gradient">
             
             </div>
         </div>
@@ -122,9 +122,9 @@
     
     <script>
         $(document).ready(function( ) {
-            $.get("./Gradients.md", function(Data) { 
+            $.get("./Gradient.md", function(Data) { 
                 var Grad = markdown.toHTML(Data);
-                $("#Gradients").html(Grad)
+                $("#Gradient").html(Grad)
                 $("img").parents("p").css("text-align", "center")
                 });
             });
