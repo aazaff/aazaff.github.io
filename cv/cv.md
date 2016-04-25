@@ -63,7 +63,7 @@
 + University of Georgia Stratigraphy Lab (2008-2010)
 + [Macrostrat Team](https://macrostrat.org/) (2015-Present)
 + GeoDeepDive Team (2015-Present)
-+ Paleobiology Database Development Team (2015-Present)
++ [Paleobiology Database Development Team](https://paleobiodb.org/#/people) (2015-Present)
 + [Paleobiology Database R Package](https://github.com/aazaff/paleobiologyDatabase.R) (2015-Present)
 
 ## Professional Societies
