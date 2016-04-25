@@ -11,7 +11,7 @@
 + **Zaffos, A.** and A.I. Miller (2015). Cenozoic latitudinal response curves: Individualistic changes in the latitudinal distributions of marine bivalves and gastropods. *Paleobiology* 41:33-44.
 + Brett, C.E., **Zaffos, A.**, and A.I. Miller (*in press*). Niche conservatism, tracking, and ecological stasis: A hierarchichal perspective. Eldredge, N. and T. Pievani (Eds.), Evolutionary Theory: A Hierarchical Perspective, University of Chicago Press.
 + **Zaffos, A.**, McMullen, S.M., and S.E. Peters. (*in preparation*) The dynamics of geographic range size.
-+ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in preparation*) The first-order relationship between tectonic plate geography and biodiversity.
++ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in preparation*) The weak relationship between marine biodiveristy and continental configuration.
 + **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in preparation*) Quantitative paleogeographic boundary conditions for Phanerozoic biodiversity analysis.
 
 ## Published Abstracts
