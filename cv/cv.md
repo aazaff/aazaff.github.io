@@ -71,7 +71,7 @@
 + Paleontological Society (2008-Present)
 + American Society of Naturalists (2010-Present)
 
-## Outreach Initiatives
+## Community Participation
 + Alpha Phi Omega Service Organization (2005-2008)
 + Osher Lifelong Learning Center, Teaching Assistant (2010)
 + Boy Scouts of America, Geology Merit Badge Counselor (2011-2013)
