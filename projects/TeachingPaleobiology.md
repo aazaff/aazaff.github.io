@@ -1,7 +1,7 @@
 # Teaching Paleobiology
 
 ![Geoscience: 541 Paleobiology Course](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/img/ClassPhoto.jpg)
-> University of Madison - Wisconsins 2016 Paleobiology Class
+> University of Madison - Wisconsin's 2016 Paleobiology Class
 
 ## Course Philosophy
 My [paleobiology course](https://github.com/aazaff/teachPaleobiology/blob/master/README.md) is organized around the idea of *ontogeny*. Ontogenesis is a concept in biology that describes the anatomical and behavioral development of an organism from its birth to its death. In other words, it means progression through the successive stages of life as you age – e.g., birth, childhood, adolescence, adulthood, and death.
