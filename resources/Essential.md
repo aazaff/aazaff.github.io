@@ -3,7 +3,7 @@
 ## Classic Paleobiology Papers
 + Valentine, J.W. and E.M. Moores (1970) Plate-tectonic regulation of faunal diversity and sea-level: A model.
 + Van Valen, L. (1973) A new evolutionary law. 
-+ Thayer, C.W. (1979) Biological bulldozers and the evolution of marine benthic communities .
++ Thayer, C.W. (1979) Biological bulldozers and the evolution of marine benthic communities.
 + Sepkoski, J.J., Bambach, R.K., Raup, D.M., and J.W. Valentine (1981) Phanerozoic marine diversity and the fossil record.
 + Sepkoski, J.J. (1981) A factor analytic description of the Phanerozoic marine fossil record. 
 + Boucot, A.J. (1983) Does evolution take place in a ecological vacuum? 
@@ -11,7 +11,7 @@
 + Jablonski, D. (1986) Background and mass extinctions: The alternation of macroevolutionary regimes. 
 + Vermeij, G.J. (1987) Evolution and escalation: An ecological history of life. 
 + Sepkoski, J.J. (1988) Alpha, beta, or gamma: Where does all the diversity go? 
-+ Bambach, R.K. (1993) Seafood through time: Changes in biomass, energetics, and productivity in the marine ecosystem .
++ Bambach, R.K. (1993) Seafood through time: Changes in biomass, energetics, and productivity in the marine ecosystem.
 + Brett, C.E., and G.C. Baird (1995) Coordinated stasis and evolutionary ecology of Silurian–Devonian marine biotas in the Appalachian basin.
 + Droser, M.L., Bottjer, D.J., Sheehan, P.M., and G.R. McGhee (2000) Decoupling of taxonomic and ecological severity of Phanerozoic marine mass extinctions. 
 + Peters, S. and M. Foote (2002) Determinants of extinction in the fossil record. 
@@ -50,7 +50,7 @@
 
 ## Miscellaneous Review Papers
 + Kidwell, S.M. and K.W. Flessa (1996) The quality of the fossil record: Populations, species, and communities. 
-+ McKinney, M.L. (1997) Extinction vulnerability and selectivity: Combining ecological and paleontological views 
++ McKinney, M.L. (1997) Extinction vulnerability and selectivity: Combining ecological and paleontological views. 
 + Kidwell, S.M. and S.M. Holland (2000) The quality of the fossil record: Implicatons for evolutionary analysis. 
 + Sheehan, P.M. (2001) The Late Ordovician mass extinction. 
 + Wiens, J.J. and M.J. Donoghue (2004) Historical biogeography, ecology, and species richness. 
