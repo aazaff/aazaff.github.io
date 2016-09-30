@@ -11,7 +11,6 @@
 + **Zaffos, A.** and A.I. Miller (2015). Cenozoic latitudinal response curves: Individualistic changes in the latitudinal distributions of marine bivalves and gastropods. *Paleobiology* 41:33-44.
 + Brett, C.E., **Zaffos, A.**, and A.I. Miller (2016). Niche conservatism, tracking, and ecological stasis: A hierarchichal perspective. Eldredge, N. and T. Pievani (Eds.), Evolutionary Theory: A Hierarchical Perspective, University of Chicago Press.
 + **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in preparation*) Plate-tectonic regulation of biodiversity and continental endemism.
-+ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in preparation*) Quantitative paleogeographic boundary conditions for Phanerozoic biodiversity analysis.
 
 ## Published Abstracts
 + **Zaffos, A.**, Bonnette, M., Christie, M., Lunze, J., Pryor, A.L., and K.M. Layou (2008). Implications of beta: Diversity partitioning during Miocene-Pliocene background extinction. *Geological Society of America Abstracts with Programs* 40:60.
@@ -21,8 +20,9 @@
 + **Zaffos, A.**, Brett, C.E., and A.I. Miller (2014). The persistence of ecological gradients: What do we really know? *10th North American Paleontological Convention Abstracts, The Paleontological Society Special Publication* 13:164-165.
 + **Zaffos, A.**, Miller, A.I., and C.E. Brett (2014). A numerical model of gradient change and its implications for empirical data. *Geological Society of America Abstracts with Programs* 46:136.
 + Peters, S., Husson, J., Czaplewski, J., and **A. Zaffos** (2015). Macrostrat: Towards a common data infrastructure to support deep time earth systems science. *Geological Society of America Abstracts with Programs* 47:70.
-+ **Zaffos, A.**, Peters, S., Husson, J., and J. Czaplewski (2015). A comparative estimate of different biodiversity curves and comments on the link between rock availability and biodiversity. *Geological Society of America Abstracts with Programs* 47:71.
-+ **Zaffos, A.** Peters, S., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:271.
++ **Zaffos, A.**, Peters, S.E., Husson, J., and J. Czaplewski (2015). A comparative estimate of different biodiversity curves and comments on the link between rock availability and biodiversity. *Geological Society of America Abstracts with Programs* 47:71.
++ **Zaffos, A.** Peters, S.E., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:668.
++ **Zaffos, A.**, Peters, S.E., and S. Finnegan (2016). Plate-tectonic regulation of biodiversity and continental endemism. *Geological Society of America Abstracts with Programs* 48:X.
 
 ## Invited Book Chapters and Guest Lectures
 + **Zaffos, A.** (2012). Climate Change: A paleontologist's perspective. *Illinois Wesleyan University*.
@@ -61,11 +61,12 @@
 + University of Cincinnati George and Frances Rawlinson Fellowship (2014)
 
 ## Laboratory and Development Team Affiliations
-+ University of Georgia Stratigraphy Lab (2008-2010)
++ [University of Georgia Stratigraphy Lab](http://strata.uga.edu/) (2008-2010)
 + [Macrostrat Team](https://macrostrat.org/) (2015-Present)
-+ GeoDeepDive Team (2015-Present)
++ [GeoDeepDive Team](https://geodeepdive.org/) (2015-Present)
 + [Paleobiology Database Development Team](https://paleobiodb.org/#/people) (2015-Present)
-+ [Paleobiology Database R Package](https://github.com/aazaff/paleobiologyDatabase.R) (2015-Present)
++ [QuantitativeFossils R Package](https://github.com/aazaff/paleobiologyDatabase.R) (2015-Present)
++ [ePANDDA](https://steppe.org/epandda/) (2016-Present)
 
 ## Professional Societies
 + Geological Society of America (2008-Present)
