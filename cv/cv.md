@@ -66,7 +66,7 @@
 + [GeoDeepDive Team](https://geodeepdive.org/) (2015-Present)
 + [Paleobiology Database Development Team](https://paleobiodb.org/#/people) (2015-Present)
 + [QuantitativeFossils R Package](https://github.com/aazaff/paleobiologyDatabase.R) (2015-Present)
-+ [ePANDDA](https://steppe.org/epandda/) (2016-Present)
++ [ePANDDA Working Group](https://steppe.org/epandda/) (2016-Present)
 + [Paleobiology Database Authorizer](https://paleobiodb.org/#/people) (2016-Present)
 
 ## Professional Societies
