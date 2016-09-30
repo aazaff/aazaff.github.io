@@ -67,6 +67,7 @@
 + [Paleobiology Database Development Team](https://paleobiodb.org/#/people) (2015-Present)
 + [QuantitativeFossils R Package](https://github.com/aazaff/paleobiologyDatabase.R) (2015-Present)
 + [ePANDDA](https://steppe.org/epandda/) (2016-Present)
++ [Paleobiology Database Authorizer](https://paleobiodb.org/#/people) (2016-Present)
 
 ## Professional Societies
 + Geological Society of America (2008-Present)
