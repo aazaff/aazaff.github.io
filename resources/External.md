@@ -19,8 +19,7 @@
 ## Notable Geoscientists
 + [Jon Husson, University of Wisconsin](http://www.jonhusson.com)
 + [Max Christie, Pennsylvania State University](http://maxchristie.weebly.com/)
-+ [Kelsey Feser, University of Cincinnati](http://kmfeser.weebly.com/)
-+ [Emma Locatelli, Yale University](http://emmarlocatelli.com/)
++ [Kelsey Feser, Cornell College](http://kmfeser.weebly.com/)
 + [James Thomka, University of Akron](http://www.uakron.edu/geology/faculty-staff/bio-detail.dot?u=jthomka)
 
 ## Worthwhile Blogs
