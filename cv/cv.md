@@ -23,7 +23,7 @@
 + **Zaffos, A.**, Peters, S.E., Husson, J., and J. Czaplewski (2015). A comparative estimate of different biodiversity curves and comments on the link between rock availability and biodiversity. *Geological Society of America Abstracts with Programs* 47:71.
 + **Zaffos, A.** Peters, S.E., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:668.
 + **Zaffos, A.**, Peters, S.E., and S. Finnegan (2016). Plate-tectonic regulation of biodiversity and continental endemism. *Geological Society of America Abstracts with Programs* 48:X.
-+ Hartman, S. Lovelace, D.M., Linzmeier, B.J., Fitch, A., Kufner, A., **Zaffos, A.**, Matthewson, P., and W. Porter (2016) Mechanistic physiological modelling and geographic distribution of Late Triassic tetrapods. *Society of Vetebrate Paleontology Annual Meeting* X:X.
++ Hartman, S. Lovelace, D.M., Linzmeier, B.J., Fitch, A., Kufner, A., **Zaffos, A.**, Matthewson, P., and W. Porter (2016) Mechanistic physiological modelling and geographic distribution of Late Triassic tetrapods. *Society of Vertebrate Paleontology Annual Meeting*.
 
 ## Invited Book Chapters and Guest Lectures
 + **Zaffos, A.** (2012). Climate Change: A paleontologist's perspective. *Illinois Wesleyan University*.
@@ -34,7 +34,7 @@
 + **Zaffos, A.** (2016). The dynamics of geographic range size. *Madison Evolution Seminar Series*.
 
 ## Courses Taught
-+ [Geoscience 541.](https://github.com/aazaff/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
++ [Geoscience 541.](https://github.com/paleobiodb/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
 + Geology 1111. Physical Geology Lab (Undergraduate), Lab Instructor. University of Cincinnati
 + Geology 1003. Physical Geology Lab (Undergraduate) , Lab Instructor. University of Cincinnati
 
