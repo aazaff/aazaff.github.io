@@ -10,7 +10,7 @@
 + **Zaffos, A.** and S.M. Holland (2012). Abundance and extinction in Ordovician-Silurian brachiopods, Cincinnati Arch, Kentucky and Ohio. *Paleobiology* 38:278-291.
 + **Zaffos, A.** and A.I. Miller (2015). Cenozoic latitudinal response curves: Individualistic changes in the latitudinal distributions of marine bivalves and gastropods. *Paleobiology* 41:33-44.
 + Brett, C.E., **Zaffos, A.**, and A.I. Miller (2016). Niche conservatism, tracking, and ecological stasis: A hierarchichal perspective. Eldredge, N. and T. Pievani (Eds.), Evolutionary Theory: A Hierarchical Perspective, University of Chicago Press.
-+ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in review*) Plate-tectonic regulation of marine animal diversity. *Proceedings of the national Academy of Sciences*.
++ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in review*) Plate-tectonic regulation of marine animal diversity. *Proceedings of the national Academy of Sciences*. [11/10/2016]
 
 ## Published Abstracts
 + **Zaffos, A.**, Bonnette, M., Christie, M., Lunze, J., Pryor, A.L., and K.M. Layou (2008). Implications of beta: Diversity partitioning during Miocene-Pliocene background extinction. *Geological Society of America Abstracts with Programs* 40:60.
