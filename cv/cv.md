@@ -22,7 +22,7 @@
 + Peters, S., Husson, J., Czaplewski, J., and **A. Zaffos** (2015). Macrostrat: Towards a common data infrastructure to support deep time earth systems science. *Geological Society of America Abstracts with Programs* 47:70.
 + **Zaffos, A.**, Peters, S.E., Husson, J., and J. Czaplewski (2015). A comparative estimate of different biodiversity curves and comments on the link between rock availability and biodiversity. *Geological Society of America Abstracts with Programs* 47:71.
 + **Zaffos, A.** Peters, S.E., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:668.
-+ **Zaffos, A.**, Peters, S.E., and S. Finnegan (2016). Plate-tectonic regulation of biodiversity and continental endemism. *Geological Society of America Abstracts with Programs* 48:X.
++ **Zaffos, A.**, Peters, S.E., and S. Finnegan (2016). Plate-tectonic regulation of biodiversity and continental endemism. *Geological Society of America Abstracts with Programs* 48.
 + Hartman, S. Lovelace, D.M., Linzmeier, B.J., Fitch, A., Kufner, A., **Zaffos, A.**, Matthewson, P., and W. Porter (2016) Mechanistic physiological modelling and geographic distribution of Late Triassic tetrapods. *Society of Vertebrate Paleontology Annual Meeting*.
 
 ## Invited Book Chapters and Guest Lectures
