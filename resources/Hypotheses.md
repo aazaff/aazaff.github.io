@@ -5,7 +5,7 @@ I decided to end 2016 with a sort of exit interview. A self-evaluation of my per
 What I found is that thinking deeply about the past inevitably led to thinking about the future, and that's what I'd like to share today. Below, I've outlined a few scientific hypotheses and predictions that I believe will be proven and widely accepted by paleontologists over the next three decades. My former masters advisor always suggested that I keep a notebook of hypotheses that I want to see tested so that I don't run out of ideas. I suppose that this little snippet will serve the same purpose.
 
 ## Table of Contents
-+ Generality of the latitudinal diversity gradient
++ [Generality of the latitudinal diversity gradient](#generality-of-the-latitudinal-diversity-gradient)
 + Phanerozoic trajectory of alpha and beta diversity
 + Extinction effects of alpha and beta
 + Rejection of subsampling standardizations
