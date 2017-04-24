@@ -10,8 +10,11 @@
 + **Zaffos, A.** and S.M. Holland (2012). Abundance and extinction in Ordovician-Silurian brachiopods, Cincinnati Arch, Kentucky and Ohio. *Paleobiology* 38:278-291.
 + **Zaffos, A.** and A.I. Miller (2015). Cenozoic latitudinal response curves: Individualistic changes in the latitudinal distributions of marine bivalves and gastropods. *Paleobiology* 41:33-44.
 + Brett, C.E., **Zaffos, A.**, and A.I. Miller (2016). Niche conservatism, tracking, and ecological stasis: A hierarchichal perspective. Eldredge, N. and T. Pievani (Eds.), Evolutionary Theory: A Hierarchical Perspective, University of Chicago Press.
-+ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*under revision*) Plate-tectonic regulation of marine animal diversity. *Proceedings of the national Academy of Sciences*. [Accepted 03/28/2017]
-+ Peters, S., Ross, I., Czaplewski, J., Glassel, A., Husson, J., Syverson, V., **Zaffos, A.**, and M. Livny. (*under revision*) Diving into published text, tables, and figures with GeoDeepDive. *Eos*. [Accepted 04/10/2017]
++ **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in press*). Plate-tectonic regulation of marine animal diversity. *Proceedings of the national Academy of Sciences*. [Accepted 03/28/2017]
++ Peters, S., Ross, I., Czaplewski, J., Glassel, A., Husson, J., Syverson, V., **Zaffos, A.**, and M. Livny (*under revision*). Diving into published text, tables, and figures with GeoDeepDive. *Eos*. [Accepted 04/10/2017]
++ **Zaffos, A.** and S.E. Peters (*in preparation*). The dynamics of geographic range size.
++ McMullen, S.M., Peters, S.E., Weissman, G., and **A. Zaffos** (*in preparation*). Quality of the terrestrial mammalian fossil record.
++ Ito, E., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
 
 ## Published Abstracts
 + **Zaffos, A.**, Bonnette, M., Christie, M., Lunze, J., Pryor, A.L., and K.M. Layou (2008). Implications of beta: Diversity partitioning during Miocene-Pliocene background extinction. *Geological Society of America Abstracts with Programs* 40:60.
@@ -24,7 +27,7 @@
 + **Zaffos, A.**, Peters, S.E., Husson, J., and J. Czaplewski (2015). A comparative estimate of different biodiversity curves and comments on the link between rock availability and biodiversity. *Geological Society of America Abstracts with Programs* 47:71.
 + **Zaffos, A.** Peters, S.E., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:668.
 + **Zaffos, A.**, Peters, S.E., and S. Finnegan (2016). Plate-tectonic regulation of biodiversity and continental endemism. *Geological Society of America Abstracts with Programs* 48.
-+ Hartman, S. Lovelace, D.M., Linzmeier, B.J., Fitch, A., Kufner, A., **Zaffos, A.**, Matthewson, P., and W. Porter (2016) Mechanistic physiological modelling and geographic distribution of Late Triassic tetrapods. *Society of Vertebrate Paleontology Annual Meeting*.
++ Hartman, S. Lovelace, D.M., Linzmeier, B.J., Fitch, A., Kufner, A., **Zaffos, A.**, Matthewson, P., and W. Porter (2016). Mechanistic physiological modelling and geographic distribution of Late Triassic tetrapods. *Society of Vertebrate Paleontology Annual Meeting*.
 
 ## Invited Book Chapters and Guest Lectures
 + **Zaffos, A.** (2012). Climate Change: A paleontologist's perspective. *Illinois Wesleyan University*.
