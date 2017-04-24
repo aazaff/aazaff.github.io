@@ -36,6 +36,7 @@
 + **Zaffos, A.** (2014). Looking for first principles in paleobiology. *Centre College*.
 + **Zaffos, A.** (2015). Reconsidering the Age-Area hypothesis with R and Big Data. *Madison R Programming Group*.
 + **Zaffos, A.** (2016). The dynamics of geographic range size. *Madison Evolution Seminar Series*.
++ **Zaffos, A.** (2017). Geobiology: The history of early life. *University of Wisconsin-Madison*
 
 ## Courses Taught
 + [Geoscience 541.](https://github.com/paleobiodb/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
