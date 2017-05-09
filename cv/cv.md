@@ -11,7 +11,7 @@
 + **Zaffos, A.** and A.I. Miller (2015). Cenozoic latitudinal response curves: Individualistic changes in the latitudinal distributions of marine bivalves and gastropods. *Paleobiology* 41:33-44.
 + Brett, C.E., **Zaffos, A.**, and A.I. Miller (2016). Niche conservatism, tracking, and ecological stasis: A hierarchichal perspective. Eldredge, N. and T. Pievani (Eds.), Evolutionary Theory: A Hierarchical Perspective, University of Chicago Press.
 + **Zaffos, A.**, Finnegan, S., and S.E. Peters. (*in press*). Plate-tectonic regulation of marine animal diversity. *Proceedings of the national Academy of Sciences*. [Accepted 03/28/2017]
-+ Peters, S., Ross, I., Czaplewski, J., Glassel, A., Husson, J., Syverson, V., **Zaffos, A.**, and M. Livny (*under revision*). Diving into published text, tables, and figures with GeoDeepDive. *Eos*. [Accepted 04/10/2017]
++ Peters, S., Ross, I., Czaplewski, J., Glassel, A., Husson, J., Syverson, V., **Zaffos, A.**, and M. Livny (*in press*). Diving into published text, tables, and figures with GeoDeepDive. *Eos*. [Accepted 04/10/2017]
 + **Zaffos, A.** and S.E. Peters (*in preparation*). The dynamics of geographic range size.
 + McMullen, S.M., Peters, S.E., Weissman, G., and **A. Zaffos** (*in preparation*). Quality of the terrestrial mammalian fossil record.
 + Ito, E., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
