@@ -14,7 +14,7 @@
 + Peters, S., Ross, I., Czaplewski, J., Glassel, A., Husson, J., Syverson, V., **Zaffos, A.**, and M. Livny (*in press*). Diving into published text, tables, and figures with GeoDeepDive. *Eos*. [Accepted 04/10/2017]
 + **Zaffos, A.** and S.E. Peters (*in preparation*). The dynamics of geographic range size.
 + McMullen, S.M., Peters, S.E., Weissman, G., and **A. Zaffos** (*in preparation*). Quality of the terrestrial mammalian fossil record.
-+ Ito, E., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
++ Ito, E.T., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
 
 ## Published Abstracts
 + **Zaffos, A.**, Bonnette, M., Christie, M., Lunze, J., Pryor, A.L., and K.M. Layou (2008). Implications of beta: Diversity partitioning during Miocene-Pliocene background extinction. *Geological Society of America Abstracts with Programs* 40:60.
@@ -25,11 +25,12 @@
 + **Zaffos, A.**, Miller, A.I., and C.E. Brett (2014). A numerical model of gradient change and its implications for empirical data. *Geological Society of America Abstracts with Programs* 46:136.
 + Peters, S., Husson, J., Czaplewski, J., and **A. Zaffos** (2015). Macrostrat: Towards a common data infrastructure to support deep time earth systems science. *Geological Society of America Abstracts with Programs* 47:70.
 + **Zaffos, A.**, Peters, S.E., Husson, J., and J. Czaplewski (2015). A comparative estimate of different biodiversity curves and comments on the link between rock availability and biodiversity. *Geological Society of America Abstracts with Programs* 47:71.
-+ **Zaffos, A.** Peters, S.E., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:668.
++ **Zaffos, A.**, Peters, S.E., and S.K. McMullen (2015). Empirical patterns of geographic range size expansion and contraction in marine invertebrates and terrestrial mammals are well predicted by a random walk. *Geological Society of America Abstracts with Programs* 48:668.
 + **Zaffos, A.**, Peters, S.E., and S. Finnegan (2016). Plate-tectonic regulation of biodiversity and continental endemism. *Geological Society of America Abstracts with Programs* 48.
 + Hartman, S. Lovelace, D.M., Linzmeier, B.J., Fitch, A., Kufner, A., **Zaffos, A.**, Matthewson, P., and W. Porter (2016). Mechanistic physiological modelling and geographic distribution of Late Triassic tetrapods. *Society of Vertebrate Paleontology Annual Meeting*.
++ Ito, E.T., **Zaffos, A.**, Syverson, V.J., Ross, I.A., and S.E. Peters (2017). Identifying, cross-referencing, and extracting dark data using GeoDeepDive. *Digital Data in Biodiversity Research Conference*.
 
-## Invited Book Chapters and Guest Lectures
+## Invited Talks, Book Chapters, and Guest Lectures
 + **Zaffos, A.** (2012). Climate Change: A paleontologist's perspective. *Illinois Wesleyan University*.
 + **Zaffos, A.** (2012). Mass Extinction: What you need to know so it doesn't happen to you. *Northern Kentucky University*.
 + Brett, C.E., **Zaffos, A.**, Baird, G.C., and A.J. Bartholomew (2013). Fossil beds, facies gradients, and seafloor dynamics in the Middle Devonian Moscow Formation, Western New York. Deakin, A.K. and G.G. Lash (Eds.), New York State Geological Association 85th Annual Field Trip Guidebook, SUNY Fredonia.
@@ -37,6 +38,7 @@
 + **Zaffos, A.** (2015). Reconsidering the Age-Area hypothesis with R and Big Data. *Madison R Programming Group*.
 + **Zaffos, A.** (2016). The dynamics of geographic range size. *Madison Evolution Seminar Series*.
 + **Zaffos, A.** (2017). Geobiology: The history of early life. *University of Wisconsin-Madison*
++ **Zaffos, A.** (2017). How global tectonics regulate marine animal diversity. *NOAA Science Seminar Series*
 
 ## Courses Taught
 + [Geoscience 541.](https://github.com/paleobiodb/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
