@@ -8,5 +8,5 @@ You can read more about this topic in my latest PNAS paper.
 
 Zaffos, A., Finnegan, S., and S.E. Peters. (2017). Plate-tectonic regulation of marine animal diversity. Proceedings of the National Academy of Sciences 114:5653–5658.
 
-![ForwardModel](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/vmoores.gif)
+![ForwardModel](https://raw.githubusercontent.com/aazaff/aazaff.github.io/master/projects/plate_richness.gif)
 > Phanerozoic marine biodiversity, fossil occurrences, and continental movements.
