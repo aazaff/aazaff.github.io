@@ -39,6 +39,7 @@
 + **Zaffos, A.** (2016). The dynamics of geographic range size. *Madison Evolution Seminar Series*.
 + **Zaffos, A.** (2017). Geobiology: The history of early life. *University of Wisconsin-Madison*
 + **Zaffos, A.** (2017). How global tectonics regulate marine animal diversity. *NOAA Science Seminar Series*
++ **Zaffos, A.** (2017). TBD *Arizona Geological Society*
 
 ## Courses Taught
 + [Geoscience 541.](https://github.com/paleobiodb/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
