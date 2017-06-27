@@ -12,9 +12,6 @@
 + Brett, C.E., **Zaffos, A.**, and A.I. Miller (2016). Niche conservatism, tracking, and ecological stasis: A hierarchichal perspective. Eldredge, N. and T. Pievani (Eds.), Evolutionary Theory: A Hierarchical Perspective, University of Chicago Press.
 + **Zaffos, A.**, Finnegan, S., and S.E. Peters. (2017). Plate-tectonic regulation of marine animal diversity. *Proceedings of the National Academy of Sciences* 114:5653–5658.
 + Peters, S., Ross, I., Czaplewski, J., Glassel, A., Husson, J., Syverson, V., **Zaffos, A.**, and M. Livny (*in press*). Diving into published text, tables, and figures with GeoDeepDive. *Eos*. [Accepted 04/10/2017]
-+ **Zaffos, A.** and S.E. Peters (*in preparation*). The dynamics of geographic range size.
-+ McMullen, S.M., Peters, S.E., Weissman, G., and **A. Zaffos** (*in preparation*). Quality of the terrestrial mammalian fossil record.
-+ Ito, E.T., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
 
 ## Published Abstracts
 + **Zaffos, A.**, Bonnette, M., Christie, M., Lunze, J., Pryor, A.L., and K.M. Layou (2008). Implications of beta: Diversity partitioning during Miocene-Pliocene background extinction. *Geological Society of America Abstracts with Programs* 40:60.
@@ -39,7 +36,12 @@
 + **Zaffos, A.** (2016). The dynamics of geographic range size. *Madison Evolution Seminar Series*.
 + **Zaffos, A.** (2017). Geobiology: The history of early life. *University of Wisconsin-Madison*
 + **Zaffos, A.** (2017). How global tectonics regulate marine animal diversity. *NOAA Science Seminar Series*
-+ **Zaffos, A.** (2017). TBD *Arizona Geological Society*
++ **Zaffos, A.** (2017). How global tectonics regulate marine animal diversity. *Arizona Geological Society*
+
+## Current Projects
++ **Zaffos, A.** and S.E. Peters (*in preparation*). The dynamics of geographic range size.
++ McMullen, S.M., Peters, S.E., Weissman, G., and **A. Zaffos** (*in preparation*). Quality of the terrestrial mammalian fossil record.
++ Ito, E.T., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
 
 ## Courses Taught
 + [Geoscience 541.](https://github.com/paleobiodb/teachPaleobiology/blob/master/README.md) Paleobiology (Undergraduate/Graduate), Instructor. University of Wisconsin-Madison
