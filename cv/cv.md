@@ -90,7 +90,7 @@
 + Osher Lifelong Learning Center, Teaching Assistant (2010)
 + Boy Scouts of America, Geology Merit Badge Counselor (2011-2013)
 + Paleobiology Database Hackathon, University of California - Santa Cruz (2015)
-+ *Paleobiology* Reviewer (2015)
++ *Paleobiology* Reviewer (2015, 2017)
 + *Journal of Biogeography* Reviewer (2016)
 + *Nature: Scientific Reports* Reviewer (2016)
 + *Geology* Reviewer (2017)
